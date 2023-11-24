@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\ogrenciKayitSistemiConsoleApp\bin\Debug\net7.0\ogrenciKayitSistemiConsoleApp.exe
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\ogrenciKayitSistemiConsoleApp\bin\Debug\net7.0\ogrenciKayitSistemiConsoleApp.deps.json
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\ogrenciKayitSistemiConsoleApp\bin\Debug\net7.0\ogrenciKayitSistemiConsoleApp.runtimeconfig.json
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\ogrenciKayitSistemiConsoleApp\bin\Debug\net7.0\ogrenciKayitSistemiConsoleApp.dll
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\ogrenciKayitSistemiConsoleApp\bin\Debug\net7.0\ogrenciKayitSistemiConsoleApp.pdb
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\ogrenciKayitSistemiConsoleApp\obj\Debug\net7.0\ogrenciKayitSistemiConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\ogrenciKayitSistemiConsoleApp\obj\Debug\net7.0\ogrenciKayitSistemiConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\ogrenciKayitSistemiConsoleApp\obj\Debug\net7.0\ogrenciKayitSistemiConsoleApp.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\ogrenciKayitSistemiConsoleApp\obj\Debug\net7.0\ogrenciKayitSistemiConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\ogrenciKayitSistemiConsoleApp\obj\Debug\net7.0\ogrenciKayitSistemiConsoleApp.dll
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\ogrenciKayitSistemiConsoleApp\obj\Debug\net7.0\refint\ogrenciKayitSistemiConsoleApp.dll
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\ogrenciKayitSistemiConsoleApp\obj\Debug\net7.0\ogrenciKayitSistemiConsoleApp.pdb
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\ogrenciKayitSistemiConsoleApp\obj\Debug\net7.0\ogrenciKayitSistemiConsoleApp.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\ogrenciKayitSistemiConsoleApp\obj\Debug\net7.0\ref\ogrenciKayitSistemiConsoleApp.dll

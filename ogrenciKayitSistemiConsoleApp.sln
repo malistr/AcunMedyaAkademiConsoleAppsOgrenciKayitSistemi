@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ogrenciKayitSistemiConsoleApp", "ogrenciKayitSistemiConsoleApp\ogrenciKayitSistemiConsoleApp.csproj", "{91B35674-2405-4627-B98D-BA240ADDDFB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "txtDosyasıIslemleri", "txtDosyasıIslemleri\txtDosyasıIslemleri.csproj", "{DC6F0509-8009-43EE-9B68-4E577B7A5EEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91B35674-2405-4627-B98D-BA240ADDDFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B35674-2405-4627-B98D-BA240ADDDFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B35674-2405-4627-B98D-BA240ADDDFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B35674-2405-4627-B98D-BA240ADDDFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC6F0509-8009-43EE-9B68-4E577B7A5EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6F0509-8009-43EE-9B68-4E577B7A5EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6F0509-8009-43EE-9B68-4E577B7A5EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6F0509-8009-43EE-9B68-4E577B7A5EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D5950F3-8A26-4393-A752-C1E58CD9C32B}
+	EndGlobalSection
+EndGlobal

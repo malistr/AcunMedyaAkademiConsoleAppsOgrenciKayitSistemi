@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\txtDosyasıIslemleri\bin\Debug\net7.0\txtDosyasıIslemleri.exe
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\txtDosyasıIslemleri\bin\Debug\net7.0\txtDosyasıIslemleri.deps.json
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\txtDosyasıIslemleri\bin\Debug\net7.0\txtDosyasıIslemleri.runtimeconfig.json
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\txtDosyasıIslemleri\bin\Debug\net7.0\txtDosyasıIslemleri.dll
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\txtDosyasıIslemleri\bin\Debug\net7.0\txtDosyasıIslemleri.pdb
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\txtDosyasıIslemleri\obj\Debug\net7.0\txtDosyasıIslemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\txtDosyasıIslemleri\obj\Debug\net7.0\txtDosyasıIslemleri.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\txtDosyasıIslemleri\obj\Debug\net7.0\txtDosyasıIslemleri.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\txtDosyasıIslemleri\obj\Debug\net7.0\txtDosyasıIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\txtDosyasıIslemleri\obj\Debug\net7.0\txtDosyasıIslemleri.dll
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\txtDosyasıIslemleri\obj\Debug\net7.0\refint\txtDosyasıIslemleri.dll
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\txtDosyasıIslemleri\obj\Debug\net7.0\txtDosyasıIslemleri.pdb
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\txtDosyasıIslemleri\obj\Debug\net7.0\txtDosyasıIslemleri.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\txtDosyasıIslemleri\obj\Debug\net7.0\ref\txtDosyasıIslemleri.dll
