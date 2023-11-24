@@ -18,9 +18,12 @@ namespace ogrenciKayitSistemiConsoleApp
 
     class Program
     {
+
+
     
         static void Main()
         {
+
             List<Student> students = new List<Student>();
 
             Console.WriteLine("Öğrenci Kayıt Sistemi\n");
@@ -28,7 +31,7 @@ namespace ogrenciKayitSistemiConsoleApp
             while (true)
             {
                 Menu(students);
-                SaveToFile(students);
+                //SaveToFile(students);
              
             }
             
@@ -38,7 +41,6 @@ namespace ogrenciKayitSistemiConsoleApp
             Console.WriteLine("1. Yeni öğrenci kaydı\n2. Tüm öğrencileri listele\n3. Öğrenci düzenle\n4. Öğrenci sil\n5. Dosyaları kaydet\n6. Read\n7. Çıkış ");
             ConsoleKeyInfo key = Console.ReadKey();
 
-            Console.Clear();
             switch (key.Key)
             {
               
@@ -48,6 +50,7 @@ namespace ogrenciKayitSistemiConsoleApp
                     break;
                 case ConsoleKey.D2:
                     ListStudents(students);
+                    Console.Beep();
                     break;
                 case ConsoleKey.D3:
                     EditStudent(students);
@@ -142,6 +145,7 @@ namespace ogrenciKayitSistemiConsoleApp
 
         static void DeleteStudent(List<Student> students)
         {
+            Console.Clear();    
             Console.Write("Silmek istediğiniz öğrencinin adını girin: ");
             string nameToDelete = Console.ReadLine();
 
@@ -162,7 +166,6 @@ namespace ogrenciKayitSistemiConsoleApp
 
         static void SaveToFile(List<Student> students)
         {
-            Console.Clear();
 
 
             using (StreamWriter writer = new StreamWriter("C:\\deneme\\deneme.txt")) 
@@ -187,6 +190,5 @@ namespace ogrenciKayitSistemiConsoleApp
             }
 
         }
-
-    }
+      }
 }

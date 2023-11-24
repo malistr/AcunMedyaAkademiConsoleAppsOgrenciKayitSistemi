@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\Siniflar\bin\Debug\net7.0\Siniflar.exe
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\Siniflar\bin\Debug\net7.0\Siniflar.deps.json
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\Siniflar\bin\Debug\net7.0\Siniflar.runtimeconfig.json
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\Siniflar\bin\Debug\net7.0\Siniflar.dll
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\Siniflar\bin\Debug\net7.0\Siniflar.pdb
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\Siniflar\obj\Debug\net7.0\Siniflar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\Siniflar\obj\Debug\net7.0\Siniflar.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\Siniflar\obj\Debug\net7.0\Siniflar.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\Siniflar\obj\Debug\net7.0\Siniflar.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\Siniflar\obj\Debug\net7.0\Siniflar.dll
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\Siniflar\obj\Debug\net7.0\refint\Siniflar.dll
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\Siniflar\obj\Debug\net7.0\Siniflar.pdb
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\Siniflar\obj\Debug\net7.0\Siniflar.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\ogrenciKayitSistemiConsoleApp\Siniflar\obj\Debug\net7.0\ref\Siniflar.dll
